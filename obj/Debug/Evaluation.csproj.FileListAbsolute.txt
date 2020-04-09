@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\Evaluation.exe
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\Evaluation.pdb
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\IrisSkin4.dll
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\MaterialSkin.dll
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.Form1.resources
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.Properties.Resources.resources
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.SetValueForm.resources
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.WordForm.resources
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.csproj.CopyComplete
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.exe
+\\Mac\Home\Desktop\Evaluation\Evaluation\obj\Debug\Evaluation.pdb
+\\Mac\Home\Desktop\Evaluation\Evaluation\bin\Debug\Evaluation.exe.config
